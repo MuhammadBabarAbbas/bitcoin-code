@@ -7,7 +7,7 @@ sort($nonces, SORT_NUMERIC);
 
 $servername = "localhost";
 $username = "root";
-$password = "DominO@786#";
+$password = "";
 $dbname = "bitcoin";
 $start_time = "";
 $end_time = "";

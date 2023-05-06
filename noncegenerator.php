@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "DominO@786#";
+$password = "";
 $dbname = "bitcoin";
 $filename = addslashes($_SERVER['PHP_SELF']);
 //8333334
