@@ -1,0 +1,1 @@
+C:\wamp\bin\php\php5.6.25\php.exe C:\wamp\www\index0.php
